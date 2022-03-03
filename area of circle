@@ -1,0 +1,4 @@
+r=1.1
+>>> area=3.14*r*r
+>>> print("the area of circle of radius 1.1 is",area)
+the area of circle of radius 1.1 is 3.7994000000000008
